@@ -1,0 +1,23 @@
+{
+  "name": "mapping",
+  "version": "1.0.0",
+  "description": "Fun with maps",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morristaylor/mapping.git"
+  },
+  "author": "Taylor Morris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morristaylor/mapping/issues"
+  },
+  "homepage": "https://github.com/morristaylor/mapping#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "leaflet": "^1.3.4"
+  }
+}
